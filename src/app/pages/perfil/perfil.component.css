@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+
+table{
+    margin-top: 40px; 
+    text-align: center; 
+    border: blue solid 5px; 
+    margin-left: 40%; 
+    border-collapse: separate; 
+    border-radius: 5px; 
+    box-shadow: 15px 15px darkgrey;
+}
